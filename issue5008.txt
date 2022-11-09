@@ -5,3 +5,4 @@ example1.com
 (^|\.)example5\.com
 (\.|^)example6\.com$
 ^example77?
+(^|\.)example8\.com;reply=none
